@@ -1,4 +1,6 @@
-# DoMore
+# DoMore – AI Notebook
+
+This is the official documentation repository for DoMore. Learn how to organize screenshots, voice memos, and documents into topic notes and ask questions across your notes.
 
 DoMore is an AI notebook that organizes screenshots, voice memos, documents, links, and quick thoughts by topic. You can save everything together. DoMore brings related details from different sources into focused notes and keeps the original context. After you close the app, its background agent continues looking for connections between new material and earlier notes, including decisions to revisit and tasks to follow up on.
 
