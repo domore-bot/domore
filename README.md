@@ -8,7 +8,7 @@ You can ask questions about your own material or turn it into flashcards, intera
 
 [Website and downloads](https://app.domore.bot/) · [Use cases](https://app.domore.bot/testimonials) · [Privacy and AI](https://app.domore.bot/trust)
 
-[Features](docs/features.md) · [FAQ](docs/faq.md) · [Security and privacy](docs/security-and-privacy.md)
+[FAQ](docs/faq.md) · [Security and privacy](docs/security-and-privacy.md)
 
 ## How does one batch become several notes?
 
@@ -16,7 +16,11 @@ Imagine you leave a product meeting with a recording, two whiteboard photos, and
 
 Save the materials together, and DoMore can group the sign-up discussion with the relevant customer comments while organizing the release discussion into a separate note. You can review, edit, move, or delete the notes it creates.
 
-If you later add a customer report about sign-up, the background agent can connect it to the earlier discussion and bring the team's decision back to your attention.
+## DoMore keeps working after you close the app
+
+You can save a thought, a voice memo, a screenshot, or a document whenever it comes up. Each time you add something, the background agent has another piece of information to compare with what you’ve already saved.
+
+Even after you close the app, the agent keeps looking for new connections across your materials. It filters out repeated information and brings you conclusions worth considering, opportunities you might want to explore, and items worth following up on.
 
 ## What can I capture?
 
