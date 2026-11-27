@@ -6,7 +6,11 @@ DoMore is an AI notebook for material that arrives in pieces: a thought you reco
 
 Imagine a meeting covers a product launch and a hiring decision. The recording covers both, but the whiteboard photo only concerns the launch. DoMore can separate the two subjects and group the photo with the relevant discussion. Each note retains its source context. You can review the results and edit, move, or delete the notes.
 
-After you close the app, the background agent keeps looking for connections. A later customer interview, for example, might bring an earlier launch decision back to your attention. The agent filters repeated material and surfaces related findings and follow-ups.
+## DoMore keeps working after you close the app
+
+You can save a thought, a voice memo, a screenshot, or a document whenever it comes up. Each time you add something, the background agent has another piece of information to compare with what you’ve already saved.
+
+Even after you close the app, the agent keeps looking for new connections across your materials. It filters out repeated information and brings you conclusions worth considering, opportunities you might want to explore, and items worth following up on.
 
 ## Capture and extract information
 
