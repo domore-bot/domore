@@ -8,6 +8,8 @@ You can ask questions about your own material or turn it into flashcards, intera
 
 [Website and downloads](https://app.domore.bot/) · [Use cases](https://app.domore.bot/testimonials) · [Privacy and AI](https://app.domore.bot/trust)
 
+[FAQ](docs/faq.md) · [Security and privacy](docs/security-and-privacy.md)
+
 ## How does one batch become several notes?
 
 Imagine you leave a product meeting with a recording, two whiteboard photos, and a PDF of customer feedback. The team discussed both the sign-up flow and the next release date. Several comments in the PDF relate to sign-up.
